@@ -1,0 +1,28 @@
+{
+  "name": "qin",
+  "version": "0.0.1",
+  "description": "A JavaScript library for rendering music natation and Qin tablature",
+  "main": "releases/qin-debug.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/voidest1/qin.git"
+  },
+  "author": {
+    "name": "Leon Liu",
+    "email": "voidest@hotmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "music",
+    "notation",
+    "qin",
+    "guqin",
+    "tablature"
+  ],
+  "dependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-watch": "^1.1.0",
+    "node": "^11.10.0"
+  }
+}
